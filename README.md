@@ -10,13 +10,13 @@ I love turning ideas into code, and code into products that actually *do somethi
   Exploratory data analysis, data visualization, machine learning, embeddings, topic modeling, sentiment analysis, and NLP workflows (Python + SQL).
 
 - 🎨 **Frontend & UI Design**  
-  Designing sleek and responsive interfaces using **JavaScript**, **TypeScript**, and **React Native** — always with a focus on user experience.
+  Designing sleek and responsive interfaces using **JavaScript**, **HTML**, and **React Native** — always with a focus on user experience.
 
 - 🔧 **Backend Development**  
   Building fast and scalable APIs using **Python**, **FastAPI**, and **MongoDB** with clean architecture and documentation.
 
 - 💾 **Programming Languages I Use**  
-  🐍 Python · 💻 C++ · 🗃️ SQL · 🌐 JavaScript · ⚙️ Verilog
+  🐍 Python · 💻 C++ · 🗃️ SQL · 🌐 JavaScript · ⚙️ Verilog · 📝 HTML · 🐘 PHP
 
 ---
 
@@ -35,10 +35,16 @@ I love turning ideas into code, and code into products that actually *do somethi
 
 ---
 
-## 📫 Let's Connect
-- **Email:** dnzzeynep04@hotmail.com 
-- **LinkedIn:** [linkedin.com/in/zeynep-deniz-student-1b8111293](www.linkedin.com/in/zeynep-deniz-student-1b8111293)  
-- **Portfolio:** [zeynepdeniz.github.io](https://zeynepdeniz.github.io)  
+### 📫 Let's Connect
+
+- 📧 **Email:**  
+  [![Email Me](https://img.shields.io/badge/Email-dnzzeynep04%40hotmail.com-blue?style=flat&logo=gmail)](mailto:dnzzeynep04@hotmail.com)
+
+- 🔗 **LinkedIn:**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep%20Deniz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeynep-deniz-student-1b8111293)
+
+- 🌐 **Portfolio:**  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-zeynepdeniz.github.io-0f172a?style=flat&logo=github)](https://zeynepdeniz.github.io)
 
 ---
 
