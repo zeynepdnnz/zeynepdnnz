@@ -37,14 +37,15 @@ I love turning ideas into code, and code into products that actually *do somethi
 
 ### 📫 Let's Connect
 
-- 📧 **Email:**  
-  [![Email Me](https://img.shields.io/badge/Email-dnzzeynep04%40hotmail.com-blue?style=flat&logo=gmail)](mailto:dnzzeynep04@hotmail.com)
-
-- 🔗 **LinkedIn:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep%20Deniz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeynep-deniz-student-1b8111293)
-
-- 🌐 **Portfolio:**  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-zeynepdeniz.github.io-0f172a?style=flat&logo=github)](https://zeynepdeniz.github.io)
+<a href="mailto:dnzzeynep04@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/zeynep-deniz-student-1b8111293" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://zeynepdeniz.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%230F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
