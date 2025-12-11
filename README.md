@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Zeynep Deniz
+# Zeynep Deniz
 
 I'm a **Computer Science student at Sabancı University** with a passion for building impactful software and exploring the magic of **Data Science**, **AI**, and **Full-Stack Development**.  
 I love turning ideas into code, and code into products that actually *do something useful*.
