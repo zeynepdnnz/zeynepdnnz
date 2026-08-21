@@ -79,12 +79,3 @@ Real-time nighttime vehicle detection and tracking from **NIR camera** footage. 
 **Credit-Card Fraud Anomaly Detection** — *CS415, Introduction to Deep Learning*
 Unsupervised fraud detection using a **Deep Autoencoder** (reconstruction error) with a **One-Class SVM** baseline. Models compared with ROC-AUC, PR-AUC, and threshold-tuned F1.
 `PyTorch` `scikit-learn` `Autoencoder` `Anomaly Detection`
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeynepdnnz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdnnz&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
