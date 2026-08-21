@@ -1,68 +1,94 @@
-# Zeynep Deniz
+<h1 align="center">Zeynep Deniz</h1>
 
-I'm a **Computer Science student at Sabancı University** with a passion for building impactful software and exploring the magic of **Data Science**, **AI**, and **Full-Stack Development**.  
-I love turning ideas into code, and code into products that actually *do something useful*.
+<p align="center">
+  Computer Science student at <b>Sabancı University</b> — working at the intersection of <b>AI, Data Science, and Full-Stack Development</b>.
+</p>
 
----
-
-## 🧠 What I'm Capable Of
-- 🧪 **Data Science & AI**  
-  Exploratory data analysis, data visualization, machine learning, embeddings, topic modeling, sentiment analysis, and NLP workflows (Python + SQL).
-
-- 🎨 **Frontend & UI Design**  
-  Designing sleek and responsive interfaces using **JavaScript**, **HTML**, and **React Native** — always with a focus on user experience.
-
-- 🔧 **Backend Development**  
-  Building fast and scalable APIs using **Python**, **FastAPI**, and **MongoDB** with clean architecture and documentation.
-
-- 💾 **Programming Languages I Use**  
-  🐍 Python · 💻 C++ · 🗃️ SQL · 🌐 JavaScript · ⚙️ Verilog · 📝 HTML · 🐘 PHP
+<p align="center">
+  <a href="mailto:dnzzeynep04@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zeynep-deniz-student-1b8111293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://zeynepdnnz.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧰 Tools I Work With
-- **Development & IDEs**: VS Code · CLion · Git & GitHub  
-- **Databases**: MySQL · MongoDB  
-- **API & Testing**: Postman · FastAPI  
-- **Containerization**: Docker  
-- **Hardware & Simulation**: Digital Logic Simulator · Verilog
+### About
+
+I enjoy turning research ideas into working systems — whether that means fine-tuning large language models, building real-time computer vision pipelines, or shipping a full-stack application end-to-end. I am currently exploring how far small, targeted models can go against much larger frontier ones.
+
+### Currently
+
+- Learning **game development with Unity (C#)** — from mechanics to shipping a playable build
+- Deepening my work in **LLM fine-tuning** (LoRA, PEFT) and evaluation
+- Studying advanced CS coursework at Sabancı University
 
 ---
 
-## ⚡ Fun Facts
-- I talk to my code like it’s a real person — sometimes it listens.  
-- I believe coffee should be an officially supported programming language. ☕  
+### Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### Featured Projects
 
-<a href="mailto:dnzzeynep04@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/zeynep-deniz-student-1b8111293" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://zeynepdnnz.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%230F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
+**[SemEval-2026 Task 5 — AmbiStory](https://github.com/zeynepdnnz/cs445-semeval-task5)**
+Fine-tuned **Qwen3-8B** with a 16 MB **LoRA** adapter for rating plausibility of word senses in ambiguous sentences. Achieved **Spearman ρ = 0.7650** on the test set — outperforming **Gemini 2.5 Pro** zero-shot by +2.63 pp. Includes ablations across seeds, LoRA ranks, and loss variants.
+`PyTorch` `Hugging Face` `PEFT` `Qwen3` `DeBERTa`
+
+**[Night-Vision Vehicle Detector](https://github.com/zeynepdnnz/night-vision-vehicle-detector)**
+Real-time nighttime vehicle detection and tracking from **NIR camera** footage. Multi-vehicle Kalman-filter tracking with dual-signal distance estimation (bounding box + Y-position), robust across brake, hazard, and beam-light modes.
+`OpenCV` `NumPy` `Kalman Filter` `Computer Vision`
+
+**Credit-Card Fraud Anomaly Detection** — *CS415, Introduction to Deep Learning*
+Unsupervised fraud detection using a **Deep Autoencoder** (reconstruction error) with a **One-Class SVM** baseline. Models compared with ROC-AUC, PR-AUC, and threshold-tuned F1.
+`PyTorch` `scikit-learn` `Autoencoder` `Anomaly Detection`
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+### GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeynepdnnz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdnnz&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</p>
 
-<!--
-**zeynepdnnz/zeynepdnnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepdnnz&theme=default&hide_border=true" />
+</p>
